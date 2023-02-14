@@ -1,0 +1,71 @@
+.skill {
+    text-align: center;
+    margin-top: 20%;
+    color: #d4ecdd;
+  }
+ 
+  .skill-container {
+    padding: 5%;
+    height: 50%;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    background-color: #152d35;
+  }
+  .fadeIn {
+    animation-duration: 0.7s;
+    animation-fill-mode: forwards;
+    animation-name: fadeIn;
+    animation-timing-function: ease-in-out;
+  }
+  .progress_bar {
+    margin-bottom: 10px;
+    position: relative;
+  }
+  .progress_bar_title {
+    color: #d4ecdd;
+    display: inline;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+  .progress_number {
+    color: #d4ecdd;
+    font-size: 13px;
+    font-weight: 900;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 0;
+  }
+  .progress_bar_holder {
+    background: #112031;
+    margin-top: 5px;
+  }
+  .progress_bar_content {
+    height: 5px;
+    transition: width 1s ease-in-out 0s;
+  }
+  .workExp {
+    text-align: center;
+    margin-top: 10%;
+    color: #d4ecdd;
+  }
+  .workContainer {
+    align-items: center;
+    text-align: center;
+    border: none;
+    margin: 10px;
+    margin-top: 4%;
+    height: 100%;
+    width: 30%;
+    font-size: 20px;
+    background-color: #d4ecdd;
+    box-shadow: #152d35 2px 2px 2px;
+    border-radius: 2px;
+    padding: 10px;
+    display: inline-flex;
+    fill-opacity: 0.25;
+    fill: #d4ecdd;
+  }

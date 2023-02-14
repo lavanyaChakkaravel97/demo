@@ -1,0 +1,30 @@
+.about {
+    background-color: #152d35;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    box-shadow: #345b63 2px 2px 2px;
+  }
+  .aboutMe {
+    color: #d4ecdd;
+  }
+  .aboutHeading {
+    text-align: center;
+    color: #d4ecdd;
+    margin-top: 15%;
+  }
+  .aboutBox {
+    background-color: #152d35;
+    display: flex;
+    margin-top: 5%;
+    padding: 5%;
+  }
+  .aboutInfo {
+    color: #d4ecdd;
+    flex: 1;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  

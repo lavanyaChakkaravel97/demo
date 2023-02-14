@@ -1,0 +1,37 @@
+.navBar {
+    height: 10%;
+    font-size: 25px;
+    margin-top: 10px;
+    align-items: right;
+    top: 0;
+    width: 100%;
+    position: fixed;
+  }
+  .navOp {
+    background-color: #112031;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 82px;
+    margin-right: 82px;
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 15px;
+    transition: transform 0.8s;
+  }
+  .navOp:hover {
+    background-color: #112031;
+    color: #d4ecdd;
+    text-decoration-style: solid;
+    transform: scale(1.1);
+  }
+  .opLink {
+    text-decoration: none;
+    color: #d4ecdd;
+  }
+  .opLink:hover {
+    color: #d4ecdd;
+  }
